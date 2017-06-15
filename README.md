@@ -1,6 +1,11 @@
 # sistem-operasi-mikroprocessor-2017
 Catatan kuliah semester GENAP 2016/2017
 
+# FreeRTOS: Task State 
+
+![Task State](img/tskstate.gif)
+
+
 # Arduino
 
 ![Arduino board](img/uno.png)
